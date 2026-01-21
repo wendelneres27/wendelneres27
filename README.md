@@ -1,5 +1,5 @@
 # Olá! Eu sou Wendel Neres 
-
+<img align="right" src="hollow-knight.png" width="150" hspace="0" />
 *-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
 
 *-* Atualmente estudando **C# .NET / ASP.NET**

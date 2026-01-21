@@ -1,5 +1,5 @@
 # Olá! Eu sou Wendel Neres 
-<img align="right" src="hollow-knight.png" width="150" hspace="0" />
+
 *-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
 
 *-* Atualmente estudando **C# .NET / ASP.NET**
@@ -7,7 +7,7 @@
 *-* **Pronomes:** ele/dele
 
 ## Tecnologias:
-
+<img align="right" src="hollow-knight.png" width="150"/>
 <div style="display: inline_block">
   <!-- Front-end -->
   <img align="center" alt="HTML" height="30" width="40"
@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
 
 
 

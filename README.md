@@ -1,4 +1,4 @@
-## Olá! Eu sou Wendel Neres 
+# Olá! Eu sou Wendel Neres 
 
 *-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
 
@@ -6,7 +6,7 @@
 
 *-* **Pronomes:** ele/dele
 
----
+## Tecnologias:
 
 <div style="display: inline_block">
   <!-- Front-end -->
@@ -26,8 +26,7 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-
----
+## Contato:
 
 <div> 
   <a href="https://www.instagram.com/wendelneress/" target="_blank">

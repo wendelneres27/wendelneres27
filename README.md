@@ -4,7 +4,6 @@
 
 *-* Atualmente estudando **C# .NET / ASP.NET**
 
-*-* **Pronomes:** ele/dele
 
 ## Tecnologias:
 <img align="right" src="hollow-knight.png" width="150"/>

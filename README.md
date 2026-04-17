@@ -34,6 +34,12 @@
   <img src="https://streak-stats.demolab.com?user=wendelneres27&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+## Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wendelneres27/wendelneres27/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 ## Contato:

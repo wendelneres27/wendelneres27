@@ -7,24 +7,19 @@
 
 ## Tecnologias:
 <img align="right" src="hollow-knight.png" width="150"/>
-<div style="display: inline_block">
-  <!-- Front-end -->
-  <img align="center" alt="HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL Server" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<p align="center">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+</p>
 
+<p align="center">
+  <em>HTML • CSS • Python • C# • SQL Server • PostgreSQL • MySQL</em>
+</p>
 ## Contato:
 
 <div> 

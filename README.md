@@ -1,4 +1,9 @@
-# Olá! Eu sou Wendel Neres 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Wendel+Neres!;" />
+</p>
+
+
+# Wendel Neres 
 
 *-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
 
@@ -20,6 +25,17 @@
 <p align="center">
   <em>HTML • CSS • Python • C# • SQL Server • PostgreSQL • MySQL</em>
 </p>
+
+---
+
+# Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wendelneres27&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
 ## Contato:
 
 <div> 

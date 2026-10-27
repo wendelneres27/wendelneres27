@@ -7,8 +7,6 @@
 
 *-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
 
-*-* Atualmente estudando **C# .NET / ASP.NET**
-
 ## Tecnologias:
 <img align="right" src="hollow-knight.png" width="150"/>
 <p align="center">

@@ -41,19 +41,22 @@
 ---
 ## Contato:
 
-<div> 
+<div align="left">
   <a href="https://www.instagram.com/wendelneress/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram"/>
   </a>
-  <a href="https://discord.gg/wendelneres_71354" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
+  &nbsp;
+  <a href="https://discord.com/users/SEU_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45" alt="Discord"/>
+  </a>
+  &nbsp;
   <a href="mailto:wendelnereslp@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/wendel-neres-00a0b1242" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  &nbsp;
+  <a href="https://www.linkedin.com/in/wendel-neres-00a0b1242" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
+  </a>
 </div>
 
 

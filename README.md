@@ -1,66 +1,120 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Wendel+Neres!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=D4D4D8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Wendel+Neres!;Software+Development;Data+%26+Artificial+Intelligence;Always+Learning" alt="Apresentação"/>
 </p>
 
+<h1 align="center">Wendel Neres</h1>
 
-# Wendel Neres 
+<p align="center">
+  <strong>Software Development • Data • AI</strong>
+</p>
 
-*-* **Analista de Dados**, atuando com **IA, bancos de dados e integrações**
+<p align="center">
+  Desenvolvimento de software, inteligência artificial,
+  bancos de dados e integrações de sistemas.
+</p>
 
-## Tecnologias:
+---
+
+## Sobre mim
+
 <img align="right" src="hollow-knight.png" width="150"/>
+
+- Graduado em Análise e Desenvolvimento de Sistemas.
+- Desenvolvimento de aplicações com C# e .NET.
+- Experiência com bancos de dados relacionais.
+- Inteligência artificial, automações e integrações.
+- Constantemente aprendendo novas tecnologias.
+
+<br/>
+
+---
+
+## Tecnologias
+
 <p align="center">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+  <img width="42" src="https://api.iconify.design/simple-icons/html5.svg?color=%23D4D4D8" alt="HTML"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/simple-icons/css.svg?color=%23D4D4D8" alt="CSS"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/simple-icons/python.svg?color=%23D4D4D8" alt="Python"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/mdi/language-csharp.svg?color=%23D4D4D8" alt="C#"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/simple-icons/dotnet.svg?color=%23D4D4D8" alt=".NET"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/mdi/database.svg?color=%23D4D4D8" alt="SQL Server"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23D4D4D8" alt="PostgreSQL"/>
+  &nbsp;
+  <img width="42" src="https://api.iconify.design/simple-icons/mysql.svg?color=%23D4D4D8" alt="MySQL"/>
 </p>
 
 <p align="center">
-  <em>HTML • CSS • Python • C# • SQL Server • PostgreSQL • MySQL</em>
+  <sub>HTML • CSS • Python • C# • .NET • SQL Server • PostgreSQL • MySQL</sub>
 </p>
 
 ---
 
-# Streak
+## Ferramentas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wendelneres27&theme=tokyonight&hide_border=true"/>
+  <img width="40" src="https://api.iconify.design/simple-icons/git.svg?color=%23D4D4D8" alt="Git"/>
+  &nbsp;
+  <img width="40" src="https://api.iconify.design/simple-icons/github.svg?color=%23D4D4D8" alt="GitHub"/>
+  &nbsp;
+  <img width="40" src="https://api.iconify.design/simple-icons/docker.svg?color=%23D4D4D8" alt="Docker"/>
+  &nbsp;
+  <img width="40" src="https://api.iconify.design/simple-icons/postman.svg?color=%23D4D4D8" alt="Postman"/>
+  &nbsp;
+  <img width="40" src="https://api.iconify.design/simple-icons/n8n.svg?color=%23D4D4D8" alt="n8n"/>
+  &nbsp;
+  <img width="40" src="https://api.iconify.design/simple-icons/grafana.svg?color=%23D4D4D8" alt="Grafana"/>
+</p>
+
+<p align="center">
+  <sub>Git • GitHub • Docker • Postman • n8n • Grafana</sub>
 </p>
 
 ---
+
+## GitHub Streak
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=wendelneres27&theme=dark&hide_border=true&background=0D1117&stroke=303030&ring=D4D4D8&fire=D4D4D8&currStreakNum=FFFFFF&currStreakLabel=D4D4D8&sideNums=FFFFFF&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wendelneres27/wendelneres27/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/wendelneres27/wendelneres27/output/github-contribution-grid-snake-dark.svg" alt="Contribuições"/>
 </p>
 
 ---
-## Contato:
 
-<div align="left">
-  <a href="https://www.instagram.com/wendelneress/" target="_blank">
-    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=instagram&logoColor=D4D4D8" height="55" alt="Instagram"/>
+## Contato
+
+<p align="center">
+  <a href="https://www.instagram.com/wendelneress/">
+    <img width="35" src="https://api.iconify.design/simple-icons/instagram.svg?color=%23D4D4D8" alt="Instagram"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=discord&logoColor=D4D4D8" height="55" alt="Discord"/>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/SEU_ID">
+    <img width="35" src="https://api.iconify.design/simple-icons/discord.svg?color=%23D4D4D8" alt="Discord"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:wendelnereslp@gmail.com">
-    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=gmail&logoColor=D4D4D8" height="55" alt="Gmail"/>
+    <img width="35" src="https://api.iconify.design/simple-icons/gmail.svg?color=%23D4D4D8" alt="Gmail"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/wendel-neres-00a0b1242" target="_blank">
-    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=linkedin&logoColor=D4D4D8" height="55" alt="LinkedIn"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/wendel-neres-00a0b1242">
+    <img width="35" src="https://api.iconify.design/mdi/linkedin.svg?color=%23D4D4D8" alt="LinkedIn"/>
   </a>
-</div>
+</p>
 
+---
 
-
-
-
-
+<p align="center">
+  <sub>Learning. Building. Evolving.</sub>
+</p>

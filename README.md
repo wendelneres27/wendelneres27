@@ -43,19 +43,19 @@
 
 <div align="left">
   <a href="https://www.instagram.com/wendelneress/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=instagram&logoColor=D4D4D8" height="35" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="45" alt="Discord"/>
+    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=discord&logoColor=D4D4D8" height="35" alt="Discord"/>
   </a>
   &nbsp;
   <a href="mailto:wendelnereslp@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=gmail&logoColor=D4D4D8" height="35" alt="Gmail"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wendel-neres-00a0b1242" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-%2318181B?style=for-the-badge&logo=linkedin&logoColor=D4D4D8" height="35" alt="LinkedIn"/>
   </a>
 </div>
 
